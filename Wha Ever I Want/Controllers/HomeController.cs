@@ -8,6 +8,7 @@ namespace Wha_Ever_I_Want.Controllers
 {
     public class HomeController : Controller
     {
+        // something
         public ActionResult Index()
         {
             return View();
